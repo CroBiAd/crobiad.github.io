@@ -22,6 +22,7 @@ permalink: /people/
 
 # Alumni
 
+  * [Andreas Schreiber](http://people.unisa.edu.au/Andreas.Schreiber) - Research Fellow
   * [Andy Timmins](https://researchers.adelaide.edu.au/profile/andy.timmins) - Postdoctoral Fellow in Bioinformatics
   * [Angus Wallace](http://www.flinders.edu.au/people/angus.wallace) - Postdoctoral Fellow in Bioinformatics
   * [Timo Tiirikka](https://www.researchgate.net/profile/Timo_Tiirikka) - Bioinformatics Officer
