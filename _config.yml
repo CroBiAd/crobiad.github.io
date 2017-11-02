@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Crop Bioinformatics Adelaide (CroBiAd) group in the School of
   Agriculture, Food & Wine at the University of Adelaide, Australia. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://crobiad.agwine.adelaide.edu.au" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  CroBiAd
 
