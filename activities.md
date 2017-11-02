@@ -31,8 +31,15 @@ The group has expertise in the development and delivery of hands-on bioinformati
 
 # Leadership
 
-  * EMBL-ABR
+  * The CroBiAd group is the South Australian node of the EMBL-Australia Bioinformatics Resource
+    ([EMBL-ABR](https://www.embl-abr.org.au/)). Our involvement brings bioinformatics expertise from the agricultural
+    field, which has significantly different requirements to the human/medical field. Our activities here aim to secure
+    NCRIS funding to formally establish an Australian Bioscience Data Capability (ABDC).
 
-# Industry Collaborations
+# Industry and International Collaborations
 
   * DuPont Pioneer - A 10 year collaboration involving ...
+  * [Wheat Hub](http://www.wheathub.com.au/)
+  * Biogemma
+  * International Wheat Genome Sequencing Consortium ([IWGSC](https://www.wheatgenome.org/))
+
