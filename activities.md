@@ -15,6 +15,14 @@ The CroBiAd group has activities in both these areas.
 
 # Research
 
+The size and complexity of wheat genomics exposes some unique problems for bioinformatics. These require the development
+of novel approaches for data handling and analyses.
+
+  * Wheat genomics and transcriptomics
+  * Marker development
+  * Software development
+  * Pipeline and algorithm development
+
 # Service
 
 # Training
