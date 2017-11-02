@@ -38,13 +38,13 @@ As projects approach publication, these resources are moved to our publically ac
   * [Genome Ribbon](/internal/ribbon): Web server for visualising structural variants generated from PacBio alignments.
     Modified to load decompressed CSI BAM index files.
 
-# Hardware
+# Scientific Computing Infrastructure
 
 Research involving large, complex, plyploid genomes such as that of wheat often requires computers with large amounts
 of RAM. However, such infrastructure is not normally available from typical high performance computing (HPC) providers.
-As such, we operate our own HPC infrastructure, which includes several large memory nodes.
+As such, we operate our own scientific computing infrastructure, which includes several large memory nodes.
 
-Our current HPC infrastructure comprises of:
+Our current infrastructure comprises of:
 
   * A Slurm based cluster consisting of 2 compute nodes with the following specs:
     * 72 CPUs (Intel Xeon E5-2699v3 @ 2.30GHz)
@@ -59,7 +59,7 @@ Our current HPC infrastructure comprises of:
 
 In addition to these local hardware resources, the group also has access to resources made available through:
 
-  * NeCTAR Research Cloud (2 allocations: one for training and one for the group)
+  * [NeCTAR Research Cloud](https://nectar.org.au/research-cloud/) (2 allocations: one for training and one for the group)
     * 430 CPUs
     * 1.7 TBytes RAM
     * 5 TBytes of object storage
