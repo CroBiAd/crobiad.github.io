@@ -22,12 +22,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://crobiad.agwine.adelaide.edu.au" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  CroBiAd
+dockerhub_username: crobiad
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minima
+minima:
+  date_format: "%d %b %Y"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,3 +47,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 google_analytics: UA-84940540-3
+#header_pages:
+#  - /people/index.html

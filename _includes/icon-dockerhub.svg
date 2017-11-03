@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 190.58749 132.3875"
+   height="16"
+   width="23.03390"
+   xml:space="preserve"
+   version="1.1"
+   id="svg2"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path20"
+         d="m 0,0 1524.66,0 0,1059 L 0,1059 0,0 Z" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,132.3875)"
+     id="g10"><g
+       transform="scale(0.1,0.1)"
+       id="g12"><g
+         id="g14"><g
+           clip-path="url(#clipPath18)"
+           id="g16"><path
+             id="path22"
+             style="fill:#066da5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 862.336,572.461 157.434,0 0,143.113 -157.434,0 0,-143.113 z m -186.047,0 157.426,0 0,143.113 -157.426,0 0,-143.113 z m -186.047,0 157.426,0 0,143.113 -157.426,0 0,-143.113 z m -186.051,0 157.426,0 0,143.113 -157.426,0 0,-143.113 z m -186.05,0 157.425,0 0,143.113 -157.425,0 0,-143.113 z m 186.05,171.738 157.426,0 0,143.11 -157.426,0 0,-143.11 z m 186.051,0 157.426,0 0,143.11 -157.426,0 0,-143.11 z m 186.047,0 157.426,0 0,143.11 -157.426,0 0,-143.11 z m 0,171.735 157.426,0 0,143.116 -157.426,0 0,-143.116 z M 1492.87,655.906 c -34.38,23 -113.38,31.434 -174.17,19.969 -7.83,57.262 -39.74,106.906 -97.79,151.785 l -33.37,22.258 -22.27,-33.402 c -28.51,-42.996 -42.75,-102.559 -38.08,-159.676 2.1,-20.09 8.7,-56.027 29.37,-87.629 -20.66,-11.106 -61.5,-26.402 -115.33,-25.371 L 5.87891,543.84 3.84766,531.914 C -5.88281,474.512 -5.66797,295.387 110.629,157.711 199.031,53.0703 331.57,0 504.555,0 c 375,0 652.435,172.621 782.365,486.406 51.09,-1.019 161.09,-0.301 217.6,107.66 1.47,2.481 4.86,8.961 14.73,29.414 l 5.41,11.223 -31.79,21.203" /></g></g></g></g></svg>
