@@ -9,7 +9,7 @@ permalink: /people/
   * [Ute Baumann](http://www.adelaide.edu.au/directory/ute.baumann) - Group Leader
   * [Nathan S. Watson-Haigh](https://researchers.adelaide.edu.au/profile/nathan.watson-haigh) - Research Fellow in bioinformatics
   * [Rad Suchecki](https://researchers.adelaide.edu.au/profile/radoslaw.suchecki) - Postdoctoral Fellow in bioinformatics
-  * [Melissa Garcia](http://www.adelaide.edu.au/directory/melissa.garcia) - Research Fellow
+  * [Melissa Garcia](https://researchers.adelaide.edu.au/profile/melissa.garcia) - Research Fellow
   * [Paul Eckermann](http://www.adelaide.edu.au/directory/paul.eckermann) - Biometrics Officer
   * [Elena Kalashyan](http://www.adelaide.edu.au/directory/elena.kalashyan) - Programmer
   * [Mario Fruzangohar](http://www.adelaide.edu.au/directory/mario.fruzangohar) - Bioinformatics Officer
