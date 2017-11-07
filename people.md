@@ -29,7 +29,7 @@ permalink: /people/
   * [John Toubia](http://people.unisa.edu.au/John.Toubia) - Bioinformatics Officer
   * [Virginie Perlo](https://www.linkedin.com/in/virginie-perlo-2181638/) - Bioinformatics Officer
   * [Patrick Laffy](https://www.researchgate.net/profile/Patrick_Laffy) - Bioinformatics Officer
-  * [Joseph Sclauzero](https://www.linkedin.com/in/joseph-sclauzero-22668010b/) - Summer Scholor, Honours Student
+  * [Joseph Sclauzero](https://www.linkedin.com/in/joseph-sclauzero-22668010b/) - Summer Scholar, Honours Student
   * Ngoc Vo - Summer Scholar
   * [Anthony Clissold](https://www.linkedin.com/in/anthonyclissold/) - Summer Scholar
   * [Daniel Menadue](https://www.linkedin.com/in/daniel-menadue-1435269b/) - Summer Scholar
