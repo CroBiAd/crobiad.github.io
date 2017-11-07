@@ -51,7 +51,7 @@ Our current infrastructure comprises of:
     * 755 GBytes RAM
     * 880 GBytes fast local storage (2 x SSD's in RAID0)
     * Access to 120 TBytes of clustered storage
-  * An stand-alone compute node with the following specs:
+  * A stand-alone compute node with the following specs:
     * 64 CPUs (Intel Xeon E7-4830 @ 2.13GHz)
     * 512 GBytes RAM
     * 1.7 TBytes fast local storage
