@@ -37,7 +37,7 @@ The group has expertise in the development and delivery of hands-on bioinformati
 
 # Industry and International Collaborations
 
-  * DuPont Pioneer - A 10 year collaboration
+  * DuPont Pioneer - A 10 years collaboration
   * [Wheat Hub](http://www.wheathub.com.au/)
   * Biogemma
   * International Wheat Genome Sequencing Consortium ([IWGSC](https://www.wheatgenome.org/))
