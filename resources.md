@@ -16,9 +16,10 @@ As projects approach publication, these resources are moved to our publically ac
 
 ## Public Access
 
-  * [POTAGE](/potage) (pronounced "[pəʊˈtɑːʒ](http://img2.tfd.com/pron/mp3/en/UK/df/dfskskssdfd5drh7.mp3)"): A Visualisation
+  * [POTAGE](/potage/) (pronounced "[pəʊˈtɑːʒ](http://img2.tfd.com/pron/mp3/en/UK/df/dfskskssdfd5drh7.mp3)"): A Visualisation
     Tool for Speeding up Gene Discovery in Wheat. Accepted in Scientific Reports
     (doi: [10.1038/s41598-017-14591-7](https://dx.doi.org/10.1038/s41598-017-14591-7)).
+  * [**D**iversity **A**mong **W**heat ge**N**omes (DAWN)](/dawn/) submitted.
 
 ## Restricted to the School of Agriculture, Food & Wine
 
@@ -31,7 +32,7 @@ As projects approach publication, these resources are moved to our publically ac
   * [blast](/internal/blast): A BLAST server containing a mix of published and unpublished data sets
   * [POTAGE](/internal/potage): A POTAGE server containing published and unpublished data sets
   * [fetch](/internal/fetch): Simple sequence retrieval for selected genome assemblies
-  * [DAWN](/internal/dawn): Diversity Among Wheat geNomes
+  * [dev-DAWN](/dev-dawn/): Diversity Among Wheat geNomes
   * blast-dev
   * [GitLab](/internal/code): Project/code/software development resources
   * [bareos](/internal/bareos): Backup server
