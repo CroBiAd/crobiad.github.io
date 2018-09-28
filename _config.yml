@@ -47,5 +47,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 google_analytics: UA-84940540-3
-#header_pages:
-#  - /people/index.html
+header_pages:
+  - activities.md
+  - index.md
+  - people.md
+  - resources.md
