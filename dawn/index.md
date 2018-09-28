@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DAWN
+title: 
 permalink: /dawn/
 ---
 
