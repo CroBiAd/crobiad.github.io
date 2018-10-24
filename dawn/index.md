@@ -39,11 +39,11 @@ The following data sets are available through DAWN:
     * SSR
   * Whole genome shotgun data
     * 16 wheat accessions [[2](https://doi.org/10.1111/j.1467-7652.2012.00717.x)]
-    * Chinese spring [SRA: PRJNA392179](https://www.ebi.ac.uk/ena/data/view/PRJNA392179) [[3](https://doi.org/10.1093/gigascience/gix097)]
+    * Chinese spring [ENA: PRJNA392179](https://www.ebi.ac.uk/ena/data/view/PRJNA392179) [[3](https://doi.org/10.1093/gigascience/gix097)]
   * Transcriptomic data
     * [INRA GDEC](https://urgi.versailles.inra.fr/files/RNASeqWheat/)
   * Exome data
-    * 62 wheat accessions [SRA: SRP032974](https://www.ncbi.nlm.nih.gov/sra/?term=SRP032974) [[4](https://doi.org/10.1186/s13059-015-0606-4)]
+    * 62 wheat accessions [ENA: SRP032974](https://www.ebi.ac.uk/ena/data/view/SRP032974) [[4](https://doi.org/10.1186/s13059-015-0606-4)]
 
 ## External Resources
 
