@@ -1,8 +1,10 @@
 ---
 layout: page
-title: DAWN: Diversity Among Wheat geNomes
+title: 
 permalink: /dawn/
 ---
+
+# DAWN: Diversity Among Wheat geNomes
 
 [DAWN](http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse/) provides access to a variety of public wheat data sets in the context of the International Wheat Genome Sequencing
 Consortium’s (IWGSC) RefSeq v1.0 genome assembly [[1](http://dx.doi.org/10.1126/science.aar7191)]. This is achieved by
