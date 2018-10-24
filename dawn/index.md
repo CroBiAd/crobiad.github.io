@@ -14,7 +14,7 @@ pre-processing the data and making it available through a [JBrowse](https://jbro
 
   * [JBrowse](http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse/)
   * [Coordinate converter](http://crobiad.agwine.adelaide.edu.au/dawn/coord/) - convert coordinates from parts to/from whole pseudomolecules
-  * Data at figshare: [https://doi.org/10.4225/55/5a76e03723567](https://doi.org/10.4225/55/5a76e03723567)
+  * Open data at figshare: [https://doi.org/10.4225/55/5a76e03723567](https://doi.org/10.4225/55/5a76e03723567)
   
 ## Help
 
