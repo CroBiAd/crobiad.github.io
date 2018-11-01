@@ -53,6 +53,10 @@ The following data sets are available through DAWN:
   * Exome data
     * 62 wheat accessions (ENA: [SRP032974](https://www.ebi.ac.uk/ena/data/view/SRP032974) [[4](https://doi.org/10.1186/s13059-015-0606-4)])
 
+## Citing DAWN
+
+A DAWN manuscript is currently under submission. Further details will be made available upon acceptance.
+
 ## External Resources
 
 You may also find the following wheat related resources udeful:
