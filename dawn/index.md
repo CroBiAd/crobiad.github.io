@@ -55,7 +55,7 @@ The following data sets are available through DAWN:
 
 ## Citing DAWN
 
-A DAWN manuscript is currently under submission. Further details will be made available upon acceptance.
+Watson-Haigh, N.S., Suchecki, R., Kalashyan, E., Garcia, M. & Baumann, U. (accpeted) DAWN: A Resource for Yielding Insights into the Diversity Among Wheat Genomes. BMC Genomics. https://dx.doi.org/10.1186/s12864-018-5228-2
 
 ## External Resources
 
