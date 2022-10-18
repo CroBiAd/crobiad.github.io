@@ -12,7 +12,7 @@ pre-processing the data and making it available through a [JBrowse](https://jbro
 
 ## Resources
 
-  * [JBrowse](http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse/)
+  * [JBrowse](http://dawn.uoa.intersect.org.au/DAWN/jbrowse-prod/)
   * [Coordinate converter](http://crobiad.agwine.adelaide.edu.au/dawn/coord/) - convert coordinates from parts to/from whole pseudomolecules
   * Open data at figshare: [https://doi.org/10.4225/55/5a76e03723567](https://doi.org/10.4225/55/5a76e03723567)
   
