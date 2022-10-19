@@ -6,14 +6,14 @@ permalink: /dawn/
 
 # DAWN: Diversity Among Wheat geNomes
 
-[DAWN](http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse/) provides access to a variety of public wheat data sets in the context of the International Wheat Genome Sequencing
+[DAWN](http://dawn.uoa.intersect.org.au/DAWN/jbrowse/) provides access to a variety of public wheat data sets in the context of the International Wheat Genome Sequencing
 Consortium’s (IWGSC) RefSeq v1.0 genome assembly [[1](http://dx.doi.org/10.1126/science.aar7191)]. This is achieved by
 pre-processing the data and making it available through a [JBrowse](https://jbrowse.org/) genome browser.
 
 ## Resources
 
-  * [JBrowse](http://dawn.uoa.intersect.org.au/DAWN/jbrowse-prod/)
-  * [Coordinate converter](http://crobiad.agwine.adelaide.edu.au/dawn/coord/) - convert coordinates from parts to/from whole pseudomolecules
+  * [JBrowse](http://dawn.uoa.intersect.org.au/DAWN/jbrowse/)
+  * [Coordinate converter](http://dawn.uoa.intersect.org.au/DAWN/coord/) - convert coordinates from parts to/from whole pseudomolecules
   * Open data at figshare: [https://doi.org/10.4225/55/5a76e03723567](https://doi.org/10.4225/55/5a76e03723567)
   
 ## Help
@@ -23,10 +23,10 @@ pre-processing the data and making it available through a [JBrowse](https://jbro
 
 ## Screenshots
 
-[Jbrowse](http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse/?loc=chr4A_part2%3A235534556..235550464&tracks=IWGSC_v1.0_HC_genes%2CIWGSC_v1.0_markers_snp_infinium_90k%2CIWGSC_v1.0_markers_snp_axiom_820%2CAlsen_snpcoverage%2CRAC875_snpcoverage%2CYitpi_snpcoverage%2CPastor_snpcoverage%2CWyalkatchem_snpcoverage%2CWestonia_snpcoverage%2CACBarrie_snpcoverage%2CVolcanii_snpcoverage%2CBaxter_snpcoverage%2CChara_snpcoverage%2CDrysdale_snpcoverage%2CH45_snpcoverage%2CXiaoyan_snpcoverage%2CKukri_snpcoverage%2CGladius_snpcoverage%2CExcalibur_snpcoverage%2CIWGSC_RNASeq_multibigwig_Grain%2CIWGSC_RNASeq_multibigwig_Leaf&highlight=):
+[Jbrowse](http://dawn.uoa.intersect.org.au/DAWN/jbrowse/?loc=chr4A_part2%3A235534556..235550464&tracks=IWGSC_v1.0_HC_genes%2CIWGSC_v1.0_markers_snp_infinium_90k%2CIWGSC_v1.0_markers_snp_axiom_820%2CAlsen_snpcoverage%2CRAC875_snpcoverage%2CYitpi_snpcoverage%2CPastor_snpcoverage%2CWyalkatchem_snpcoverage%2CWestonia_snpcoverage%2CACBarrie_snpcoverage%2CVolcanii_snpcoverage%2CBaxter_snpcoverage%2CChara_snpcoverage%2CDrysdale_snpcoverage%2CH45_snpcoverage%2CXiaoyan_snpcoverage%2CKukri_snpcoverage%2CGladius_snpcoverage%2CExcalibur_snpcoverage%2CIWGSC_RNASeq_multibigwig_Grain%2CIWGSC_RNASeq_multibigwig_Leaf&highlight=):
 ![DAWN: Wx-B1](/assets/Wx-B1.png)
 
-[Coordinate converter](http://crobiad.agwine.adelaide.edu.au/dawn/coord/):
+[Coordinate converter](http://dawn.uoa.intersect.org.au/DAWN/coord/):
 ![DAWN: Wx-B1](/assets/DAWN-coord.png)
 
 
